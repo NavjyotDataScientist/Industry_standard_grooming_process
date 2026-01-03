@@ -20,11 +20,6 @@ Aspiring Data Scientist | Machine Learning Enthusiast<br>
 
 
 
-<p align="center">
-<strong>Build yourself first.</strong><br>
-<em>Then build for the world.</em>
-</p>
-
 <hr>
 
 <h3>Profile Summary</h3>
