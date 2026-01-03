@@ -96,9 +96,6 @@ First Class
 
 <hr>
 
-<p align="center">
-<em>“Build yourself first. Then build for the world.”</em>
-</p>
 
 -------------------------------- Thats all sir-----------
 
