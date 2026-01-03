@@ -19,15 +19,11 @@ Aspiring Data Scientist | Machine Learning Enthusiast<br>
 </p>
 
 
-<h1 align="center">Industry-Standard Grooming Process</h1>
 
 <p align="center">
 <strong>Build yourself first.</strong><br>
 <em>Then build for the world.</em>
 </p>
-
-<hr>
-
 
 <hr>
 
