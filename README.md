@@ -28,14 +28,6 @@ Aspiring Data Scientist | Machine Learning Enthusiast<br>
 
 <hr>
 
-<h2 align="center">Navjyot Singh Saini</h2>
-
-<p align="center">
-Aspiring Data Scientist | Machine Learning Enthusiast<br>
-📧 navjyot.dataarchitect@proton.me | 📞 +91-7385647182<br>
-🔗 <a href="https://github.com/navjyotdatascientist">GitHub</a> |
-<a href="https://dagshub.com/navjyot.dataarchitect">DagsHub</a>
-</p>
 
 <hr>
 
