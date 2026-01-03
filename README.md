@@ -9,13 +9,14 @@ Hello Captain! 👋
 I can see the photo clearly 👍
 
 
-NAVJYOT SINGH SAINI
-Aspiring Data Scientist | Machine Learning Enthusiast
-Email: navjyot.dataarchitect@proton.me
-Phone: +91-7385647182
-GitHub: github.com/navjyotdatascientist
-DagsHub: dagshub.com/navjyot.dataarchitect
+<h2 align="center">Navjyot Singh Saini</h2>
 
+<p align="center">
+Aspiring Data Scientist | Machine Learning Enthusiast<br>
+📧 navjyot.dataarchitect@proton.me &nbsp;|&nbsp; 📞 +91-7385647182<br>
+🔗 <a href="https://github.com/navjyotdatascientist">GitHub</a> &nbsp;|&nbsp;
+<a href="https://dagshub.com/navjyot.dataarchitect">DagsHub</a>
+</p>
 
 
 -------------------------------- Thats all sir-----------
